@@ -1,0 +1,18 @@
+=========================================
+           NEXTGEN STORE RECEIPT         
+=========================================
+Date: Mon Apr 20 11:00:17 EAT 2026
+Buyer: admin
+Payment Method: Credit Card (ending in 1313)
+-----------------------------------------
+Item                       Qty     Price
+-----------------------------------------
+Beef Steak                   1 $   12.99
+Chicken Meat                 1 $    9.99
+Cat Food                     1 $    8.99
+Dog Food                     1 $   10.99
+Cooking Oil                  1 $    4.99
+-----------------------------------------
+Total:                            $47.95
+=========================================
+      Thank you for shopping with us!    
