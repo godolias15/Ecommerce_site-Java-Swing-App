@@ -1,3 +1,6 @@
+Below is the UML class diagram for the application's model and core architecture. You can view this directly in GitHub or any Markdown viewer that supports Mermaid.js.
+
+```mermaid
 classDiagram
     %% Interface & Payment Methods
     class PaymentMethod {
@@ -108,3 +111,4 @@ classDiagram
     MainFrame --> Product : displays/buys
     MainFrame --> User : authenticates
     MainFrame --> PaymentMethod : uses
+```
